@@ -1,1 +1,1 @@
-# Collections-exercises
+# Collections exercises
