@@ -8,7 +8,7 @@ namespace Collections_exercises
     internal class Arrays
     {
 
-        static void Main()
+        public static void Run()
         {
             // Skapa en konsolapplikation som hanterar ett antal tal i en array.
             // 1. Be användaren ange hur många tal som ska lagras.
