@@ -3,7 +3,7 @@ using System.Diagnostics.Metrics;
 using System.Net.NetworkInformation;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
-namespace Collections_exercises
+namespace Collections_exercises.ArraysExercise
 {
     internal class Arrays
     {
